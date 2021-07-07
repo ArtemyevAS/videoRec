@@ -9,7 +9,7 @@ FPS - frame per second for target file - 25
 WIDTH , HEIGHT - dimensions
 PATH - full file path
 
-Ater start utility opens preview window.
+After start utility opens preview window.
 
 Binary at /bin directory is for v7 ARM
 
