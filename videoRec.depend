@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1616596358 source:/home/pi/_My_files/CPPPRJ/VideoCapRecorder/videoRec.cpp
+	<iostream>
+	<stdio.h>
+	<thread>
+	<future>
+	<string>
+	<mutex>
+	<opencv2/core/utility.hpp>
+	"opencv2/opencv.hpp"
+	<iostream>
+
